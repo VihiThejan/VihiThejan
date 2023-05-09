@@ -16,23 +16,8 @@ GitHub username : IT21266300
 
       
      
-<a class="libutton" <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-        href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vihinsa-thejan-bandara-550b561a9" target="_blank">Follow on LinkedIn  </style></a>
+<a class="libutton" 
+        href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vihinsa-thejan-bandara-550b561a9" target="_blank">Follow on LinkedIn  </a>
 
 
 - 🔭 I’m currently working on [MarketMaven mobile app development](https://github.com/IT21266300/MarketMaven)
