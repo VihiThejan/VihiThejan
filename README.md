@@ -20,11 +20,11 @@ GitHub username : IT21266300
         href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vihinsa-thejan-bandara-550b561a9" target="_blank">Follow on LinkedIn  </a>
 
 
-- 🔭 I’m currently working on [MarketMaven mobile app development](https://github.com/IT21266300/MarketMaven)
+- 🔭 I’m currently working on [Dress360👗Web Application](https://github.com/IT21266300/Dress360)
 
-- 🌱 I’m currently learning **MERN Stack, Flutter and kotlin**
+- 🌱 I’m currently learning **Spring Boot, MongoDB and OODBs**
 
-- 👯 I’m looking to collaborate on [Network Tower(site) Management System](https://github.com/SLIITITP/y2_s2_wd_it_01-itp_wd_b01_g08)
+- 👯 I’m looking to collaborate on [Student Management System]
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/vihinsa-thejan-bandara/home](https://sites.google.com/view/vihinsa-thejan-bandara/home)
 
