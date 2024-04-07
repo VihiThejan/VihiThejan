@@ -22,7 +22,7 @@ GitHub username : IT21266300
 
 - 🔭 I’m currently working on [Dress360👗Web Application](https://github.com/IT21266300/Dress360)
 
-- 🌱 I’m currently learning **Spring Boot, MongoDB and OODBs**
+- 🌱 I’m currently learning **Spring Boot, MongoDB and ORDBs**
 
 - 👯 I’m looking to collaborate on [Student Management System]
 
