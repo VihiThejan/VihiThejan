@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-Name : Bandara K.M.V.T.
-Student registration : IT21266300
-GitHub username : IT21266300
-
-
 
 
 <h1 align="center">Hi 👋, I'm Thejan Bandara</h1>
