@@ -36,9 +36,9 @@
 ---
 
 ## 🌟 About Me
-- 🔭 **Currently working on:** [Dress360 👗 Web Application](https://github.com/IT21266300/Dress360)
-- 📚 **Learning:** Spring Boot, MongoDB, and ORDBs
-- 🤝 **Looking to collaborate on:** [Student Management System](#)
+- 🔭 **Currently working on:** [EcoCycle-Explorer 🚴 Mobile App with Web Application for administration](https://github.com/IT21266300/EcoCycle-Explorer)
+- 📚 **Learning:** Spring Boot
+- 🤝 **Looking to collaborate on:** [Inventory (LTO) Management System](https://github.com/IT21266300/Inventory-LTO-Management-System)
 - 🖇️ **Portfolio:** [My Projects](https://sites.google.com/view/vihinsa-thejan-bandara/home)
 - ✉️ **Reach me at:** vihinsabandara@gmail.com
 
