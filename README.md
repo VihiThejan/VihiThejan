@@ -1,76 +1,103 @@
-<h1 align="center">👋 Vihinsa Thejan Bandara</h1>
-<h3 align="center">Software Developer | Sri Lanka 🇱🇰</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=it21266300&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# <div align="center">👨‍💻 Vihinsa Thejan Bandara</div>
 
 <div align="center">
-  <a href="https://twitter.com/vihinsabandara" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/vihinsabandara?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
+  <strong>Full Stack Developer • Mobile App Specialist • Sri Lanka 🇱🇰</strong>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/vihinsa-thejan-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/IT21266300" target="_blank">
-    <img src="https://img.shields.io/github/followers/IT21266300?logo=github&style=for-the-badge" alt="GitHub Badge" />
+  <a href="https://twitter.com/vihinsabandara" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://sites.google.com/view/vihinsa-thejan-bandara/home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:vihinsabandara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
----
+## 🚀 About Me
 
-## 🏆 GitHub Achievements
+Software Developer with expertise in full-stack development, mobile applications, and cloud technologies. Passionate about creating innovative solutions that leverage cutting-edge technologies to solve real-world problems.
+
+- 🔭 Currently developing **[EcoCycle-Explorer](https://github.com/IT21266300/EcoCycle-Explorer)** - A mobile app with web administration interface
+- 🌱 Learning **Spring Boot** and advanced microservices architecture
+- 👯 Open to collaborating on **[Inventory (LTO) Management System](https://github.com/IT21266300/Inventory-LTO-Management-System)**
+- 🎓 **AWS Certified** cloud practitioner with experience in serverless architectures
+- 🧪 Passionate about clean code, test-driven development, and CI/CD pipelines
+
+## 💻 Tech Stack
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=it21266300&theme=onedark" alt="GitHub Trophy" />
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 </div>
 
----
+## 📈 GitHub Stats
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=it21266300&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it21266300&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21266300&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=it21266300&show_icons=true&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it21266300&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Streak" height="170" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21266300&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-## 🌟 About Me
-- 🔭 **Currently working on:** [EcoCycle-Explorer 🚴 Mobile App with Web Application for administration](https://github.com/IT21266300/EcoCycle-Explorer)
-- 📚 **Learning:** Spring Boot
-- 🤝 **Looking to collaborate on:** [Inventory (LTO) Management System](https://github.com/IT21266300/Inventory-LTO-Management-System)
-- 🖇️ **Portfolio:** [My Projects](https://sites.google.com/view/vihinsa-thejan-bandara/home)
-- ✉️ **Reach me at:** vihinsabandara@gmail.com
+## 🏆 Certifications & Badges
 
----
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/AWS_Academy_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Graduate"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman_API_Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Student Expert"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB_Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Certified"></a>
+</div>
 
-## 🛠️ Tech Stack
-<p align="center">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-</p>
+<div align="center">
+  <a href="https://holopin.io/@it21266300" target="_blank">
+    <img src="https://holopin.me/it21266300" alt="Holopin Badges" width="700"/>
+  </a>
+</div>
 
----
+## 🌟 Featured Projects
 
-## 🏅 Badges & Certifications
-- 🏆 **AWS Academy Graduate** – AWS Cloud Foundations
-- 🏆 **Postman API Fundamentals** – Student Expert
-- 🏆 **MongoDB Indexes & CRUD Operations**
+<div align="center">
 
-[![Holopin Badge](https://holopin.me/it21266300)](https://holopin.io/@it21266300)
+[![EcoCycle-Explorer](https://github-readme-stats.vercel.app/api/pin/?username=IT21266300&repo=EcoCycle-Explorer&theme=tokyonight&hide_border=true)](https://github.com/IT21266300/EcoCycle-Explorer)
+[![Inventory-LTO-Management-System](https://github-readme-stats.vercel.app/api/pin/?username=IT21266300&repo=Inventory-LTO-Management-System&theme=tokyonight&hide_border=true)](https://github.com/IT21266300/Inventory-LTO-Management-System)
 
----
+</div>
 
 ## ☕ Support My Work
-<p align="center">
+
+<div align="center">
   <a href="https://www.buymeacoffee.com/vihinsabandara" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=it21266300&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
