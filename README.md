@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vihinsa%20Thejan%20Bandara&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Specialist%20%7C%20Cloud%20Enthusiast%20🇱🇰&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vihinsa%20Thejan%20Bandara&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Cloud%20Enthusiast%20🇱🇰&descAlignY=55&descAlign=50)
 
 </div>
 
@@ -17,8 +17,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VihiThejan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/VihiThejan?style=for-the-badge&color=blue&label=FOLLOWERS)
-![Years Badge](https://badges.pufler.dev/years/VihiThejan?style=for-the-badge&color=green&label=CODING+SINCE)
-![Repos Badge](https://badges.pufler.dev/repos/VihiThejan?style=for-the-badge&color=orange&label=REPOSITORIES)
+![GitHub User's stars](https://img.shields.io/github/stars/VihiThejan?style=for-the-badge&color=green&label=TOTAL+STARS&affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVihiThejan&query=%24.public_repos&style=for-the-badge&logo=github&label=REPOSITORIES&color=orange)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VihiThejan&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="Animated Activity Graph" />
 
