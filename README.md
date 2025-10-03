@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Welcome+to+my+Coding+Universe!;💻+Full+Stack+Developer+from+Sri+Lanka;🌟+Building+Digital+Solutions+that+Matter;⚡+Always+Exploring+New+Technologies;🎯+Turning+Ideas+into+Reality!" alt="Animated Typing SVG" />lign="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Welcome+to+my+Coding+Universe!;💻+Full+Stack+Developer+from+Sri+Lanka;🌟+Building+Digital+Solutions+that+Matter;⚡+Always+Exploring+New+Technologies;🎯+Turning+Ideas+into+Reality!" alt="Animated Typing SVG" /> 
   
 # � Vihinsa Thejan Bandara
 ### `< Full Stack Developer />` | `Mobile App Specialist` | `Cloud Enthusiast` 🇱🇰
