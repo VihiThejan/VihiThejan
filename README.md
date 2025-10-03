@@ -69,12 +69,12 @@
       <sub>🌍 Sustainability Mobile App</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Spring_Boot-Learning-green?style=flat-square&logo=spring" alt="Spring Boot"><br>
-      <sub>☕ Microservices Architecture</sub>
+      <img src="https://img.shields.io/badge/WordApp-New_Release-brightgreen?style=flat-square&logo=kotlin" alt="WordApp"><br>
+      <sub>📱 Kotlin Mobile Development</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Inventory_LTO-Open-blue?style=flat-square&logo=github" alt="Inventory LTO"><br>
-      <sub>📦 Management System</sub>
+      <img src="https://img.shields.io/badge/Inventory_LTO-Enterprise_Ready-blue?style=flat-square&logo=javascript" alt="Inventory LTO"><br>
+      <sub>🏢 Production System (3 Contributors)</sub>
     </td>
   </tr>
 </table>
@@ -280,7 +280,7 @@ CI/CD Pipeline   ██████████████░░░░░░   
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📦 Inventory LTO Management</h3>
+      <h3 align="center">🏢 Inventory LTO Management System</h3>
       <div align="center">
         <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=Inventory-LTO-Management-System&theme=radical&hide_border=true" />
@@ -288,20 +288,20 @@ CI/CD Pipeline   ██████████████░░░░░░   
         <br><br>
         <p>
           <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System" target="_blank">
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
           </a>
           <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System" target="_blank">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
           </a>
+          <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System" target="_blank">
+            <img src="https://img.shields.io/badge/AGPL_v3-License-red?style=for-the-badge&logo=gnu&logoColor=white"/>
+          </a>
         </p>
-        <p><strong>⚡ Full-stack inventory management solution with real-time tracking</strong></p>
+        <p><strong>📼 Enterprise LTO Tape Management System with Role-Based Access Control</strong></p>
         <p>
-          <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System/stargazers">
-            <img src="https://img.shields.io/github/stars/VihiThejan/Inventory-LTO-Management-System?style=social"/>
-          </a>
-          <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System/network/members">
-            <img src="https://img.shields.io/github/forks/VihiThejan/Inventory-LTO-Management-System?style=social"/>
-          </a>
+          <img src="https://img.shields.io/badge/Contributors-3-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Pull_Requests-7-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=flat-square"/>
         </p>
       </div>
     </td>
@@ -311,12 +311,36 @@ CI/CD Pipeline   ██████████████░░░░░░   
 ### 🔥 **More Awesome Projects**
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <h4>🆕 WordApp (Latest)</h4>
+      <a href="https://github.com/VihiThejan/wordapp" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=wordapp&theme=radical&hide_border=true" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Created-Oct_2025-brightgreen?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <h4>🌟 MarketMaven</h4>
+      <a href="https://github.com/VihiThejan/MarketMaven" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=MarketMaven&theme=radical&hide_border=true" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/VihiThejan/MarketMaven?style=social"/>
+    </td>
+  </tr>
+</table>
+
+[![Profile Repository](https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=VihiThejan&theme=radical&hide_border=true)](https://github.com/VihiThejan/VihiThejan)
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=VihiThejan&theme=radical&hide_border=true)](https://github.com/VihiThejan/VihiThejan)
-  
-![Project Status](https://img.shields.io/badge/Active_Projects-15+-success?style=for-the-badge)
+![Project Status](https://img.shields.io/badge/Active_Projects-20+-success?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/Collaboration-Welcome-brightgreen?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Team_Projects-3_Contributors-orange?style=for-the-badge)
+![Enterprise](https://img.shields.io/badge/Enterprise_Ready-LTO_System-purple?style=for-the-badge)
 
 </div>
 
