@@ -10,11 +10,11 @@
 ### 🌟 **Quick Stats Dashboard**
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=IT21266300&style=flat-square&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/IT21266300?style=flat-square&color=blue)
-![Years Badge](https://badges.pufler.dev/years/IT21266300?style=flat-square&color=green)
-![Repos Badge](https://badges.pufler.dev/repos/IT21266300?style=flat-square&color=orange)
-![Updated Badge](https://badges.pufler.dev/updated/IT21266300/EcoCycle-Explorer?style=flat-square&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=VihiThejan&style=flat-square&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/VihiThejan?style=flat-square&color=blue)
+![Years Badge](https://badges.pufler.dev/years/VihiThejan?style=flat-square&color=green)
+![Repos Badge](https://badges.pufler.dev/repos/VihiThejan?style=flat-square&color=orange)
+![Updated Badge](https://badges.pufler.dev/updated/VihiThejan/EcoCycle-Explorer?style=flat-square&color=red)
 
 </div>
 
@@ -160,29 +160,29 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 ### 🎮 **Player Stats Dashboard**
 
-<img src="https://github-readme-stats.vercel.app/api?username=IT21266300&show_icons=true&theme=radical&hide_border=true&custom_title=🎯%20Vihinsa's%20Coding%20Stats&icon_color=F8D866" alt="Vihinsa's GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21266300&theme=radical&hide_border=true&stroke=F8D866&ring=FB8500&fire=FB8500" alt="Vihinsa's GitHub Streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=VihiThejan&show_icons=true&theme=radical&hide_border=true&custom_title=🎯%20Vihinsa's%20Coding%20Stats&icon_color=F8D866" alt="Vihinsa's GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VihiThejan&theme=radical&hide_border=true&stroke=F8D866&ring=FB8500&fire=FB8500" alt="Vihinsa's GitHub Streak" height="180" />
 
 ### 🏆 **Achievement Unlocked: Language Mastery**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21266300&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihiThejan&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250" />
 
 ### 📈 **Contribution Graph - The Coding Journey**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IT21266300&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=FB8500&point=F8D866" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihiThejan&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=FB8500&point=F8D866" alt="Contribution Graph" />
 
 ### ⚡ **Real-Time Coding Metrics**
 
 <div align="center">
-  <a href="https://wakatime.com/@IT21266300">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IT21266300&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <a href="https://wakatime.com/@VihiThejan">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VihiThejan&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" />
   </a>
 </div>
 
 ### 🏅 **GitHub Trophies Collection**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IT21266300&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VihiThejan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ### 📋 **Recent Activity Feed**
@@ -223,8 +223,8 @@ CI/CD Pipeline   ██████████████░░░░░░   
 ### 🎮 **Digital Badge Collection**
 
 <div align="center">
-  <a href="https://holopin.io/@IT21266300" target="_blank">
-    <img src="https://holopin.me/IT21266300" alt="Holopin Badge Board" width="800"/>
+  <a href="https://holopin.io/@VihiThejan" target="_blank">
+    <img src="https://holopin.me/VihiThejan" alt="Holopin Badge Board" width="800"/>
   </a>
   <br>
   <sub>🎯 <b>Collect badges by contributing to open source!</b></sub>
@@ -256,25 +256,25 @@ CI/CD Pipeline   ██████████████░░░░░░   
     <td width="50%">
       <h3 align="center">🌍 EcoCycle Explorer</h3>
       <div align="center">  
-        <a href="https://github.com/IT21266300/EcoCycle-Explorer" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT21266300&repo=EcoCycle-Explorer&theme=radical&hide_border=true" />
+        <a href="https://github.com/VihiThejan/EcoCycle-Explorer" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=EcoCycle-Explorer&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p>
-          <a href="https://github.com/IT21266300/EcoCycle-Explorer" target="_blank">
+          <a href="https://github.com/VihiThejan/EcoCycle-Explorer" target="_blank">
             <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
           </a>
-          <a href="https://github.com/IT21266300/EcoCycle-Explorer" target="_blank">
+          <a href="https://github.com/VihiThejan/EcoCycle-Explorer" target="_blank">
             <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
           </a>
         </p>
         <p><strong>🌱 Sustainability-focused mobile application with web admin panel</strong></p>
         <p>
-          <a href="https://github.com/IT21266300/EcoCycle-Explorer/stargazers">
-            <img src="https://img.shields.io/github/stars/IT21266300/EcoCycle-Explorer?style=social"/>
+          <a href="https://github.com/VihiThejan/EcoCycle-Explorer/stargazers">
+            <img src="https://img.shields.io/github/stars/VihiThejan/EcoCycle-Explorer?style=social"/>
           </a>
-          <a href="https://github.com/IT21266300/EcoCycle-Explorer/network/members">
-            <img src="https://img.shields.io/github/forks/IT21266300/EcoCycle-Explorer?style=social"/>
+          <a href="https://github.com/VihiThejan/EcoCycle-Explorer/network/members">
+            <img src="https://img.shields.io/github/forks/VihiThejan/EcoCycle-Explorer?style=social"/>
           </a>
         </p>
       </div>
@@ -282,25 +282,25 @@ CI/CD Pipeline   ██████████████░░░░░░   
     <td width="50%">
       <h3 align="center">📦 Inventory LTO Management</h3>
       <div align="center">
-        <a href="https://github.com/IT21266300/Inventory-LTO-Management-System" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT21266300&repo=Inventory-LTO-Management-System&theme=radical&hide_border=true" />
+        <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=Inventory-LTO-Management-System&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p>
-          <a href="https://github.com/IT21266300/Inventory-LTO-Management-System" target="_blank">
+          <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System" target="_blank">
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
           </a>
-          <a href="https://github.com/IT21266300/Inventory-LTO-Management-System" target="_blank">
+          <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System" target="_blank">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
           </a>
         </p>
         <p><strong>⚡ Full-stack inventory management solution with real-time tracking</strong></p>
         <p>
-          <a href="https://github.com/IT21266300/Inventory-LTO-Management-System/stargazers">
-            <img src="https://img.shields.io/github/stars/IT21266300/Inventory-LTO-Management-System?style=social"/>
+          <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System/stargazers">
+            <img src="https://img.shields.io/github/stars/VihiThejan/Inventory-LTO-Management-System?style=social"/>
           </a>
-          <a href="https://github.com/IT21266300/Inventory-LTO-Management-System/network/members">
-            <img src="https://img.shields.io/github/forks/IT21266300/Inventory-LTO-Management-System?style=social"/>
+          <a href="https://github.com/VihiThejan/Inventory-LTO-Management-System/network/members">
+            <img src="https://img.shields.io/github/forks/VihiThejan/Inventory-LTO-Management-System?style=social"/>
           </a>
         </p>
       </div>
@@ -312,7 +312,7 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IT21266300&repo=VihiThejan&theme=radical&hide_border=true)](https://github.com/IT21266300/VihiThejan)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=VihiThejan&theme=radical&hide_border=true)](https://github.com/VihiThejan/VihiThejan)
   
 ![Project Status](https://img.shields.io/badge/Active_Projects-15+-success?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge)
@@ -336,7 +336,7 @@ CI/CD Pipeline   ██████████████░░░░░░   
 <a href="https://ko-fi.com/vihinsabandara" target="_blank">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
 </a>
-<a href="https://github.com/sponsors/IT21266300" target="_blank">
+<a href="https://github.com/sponsors/VihiThejan" target="_blank">
   <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" />
 </a>
 
@@ -363,9 +363,9 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=IT21266300&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-![Last Commit](https://img.shields.io/github/last-commit/IT21266300/VihiThejan?style=for-the-badge&color=green&label=LAST+SEEN)
-![Years Badge](https://badges.pufler.dev/years/IT21266300?style=for-the-badge&color=blue&label=CODING+SINCE)
+![Profile Views](https://komarev.com/ghpvc/?username=VihiThejan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Last Commit](https://img.shields.io/github/last-commit/VihiThejan/VihiThejan?style=for-the-badge&color=green&label=LAST+SEEN)
+![Years Badge](https://badges.pufler.dev/years/VihiThejan?style=for-the-badge&color=blue&label=CODING+SINCE)
 
 </div>
 
