@@ -1,8 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vihinsa%20Thejan%20Bandara&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Specialist%20%7C%20Cloud%20Enthusiast%20🇱🇰&descAlignY=55&descAlign=50)
 
+</div>
+
+<div align="center">
+  
+# 🚀 Vihinsa Thejan Bandara
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Welcome+to+my+Coding+Universe!;💻+Full+Stack+Developer+from+Sri+Lanka;🌟+Building+Digital+Solutions+that+Matter;⚡+Always+Exploring+New+Technologies;🎯+Turning+Ideas+into+Reality!" alt="Animated Typing SVG" /> lign="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Welcome+to+my+Coding+Universe!;💻+Full+Stack+Developer+from+Sri+Lanka;🌟+Building+Digital+Solutions+that+Matter;⚡+Always+Exploring+New+Technologies;🎯+Turning+Ideas+into+Reality!" alt="Animated Typing SVG" />
   
 # � Vihinsa Thejan Bandara
 ### `< Full Stack Developer />` | `Mobile App Specialist` | `Cloud Enthusiast` 🇱🇰
