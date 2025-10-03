@@ -2,9 +2,7 @@
 
 </div>
 
-<div align="center">
-  
-# 🚀 Vihinsa Thejan Bandara
+
 
 <div align="center">
 
