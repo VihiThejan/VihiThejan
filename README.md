@@ -1,4 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vihinsa%20Thejan%20Bandara&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Specialist%20%7C%20Cloud%20Enthusiast%20🇱🇰&descAlignY=55&descAlign=50)
+
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Welcome+to+my+Coding+Universe!;💻+Full+Stack+Developer+from+Sri+Lanka;🌟+Building+Digital+Solutions+that+Matter;⚡+Always+Exploring+New+Technologies;🎯+Turning+Ideas+into+Reality!" alt="Animated Typing SVG" />lign="center">
   
 # � Vihinsa Thejan Bandara
 ### `< Full Stack Developer />` | `Mobile App Specialist` | `Cloud Enthusiast` 🇱🇰
@@ -7,51 +11,83 @@
 
 ---
 
-### 🌟 **Quick Stats Dashboard**
+### 🌟 **Live Stats Dashboard**
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=VihiThejan&style=flat-square&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/VihiThejan?style=flat-square&color=blue)
-![Years Badge](https://badges.pufler.dev/years/VihiThejan?style=flat-square&color=green)
-![Repos Badge](https://badges.pufler.dev/repos/VihiThejan?style=flat-square&color=orange)
-![Updated Badge](https://badges.pufler.dev/updated/VihiThejan/EcoCycle-Explorer?style=flat-square&color=red)
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=VihiThejan&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=VihiThejan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/VihiThejan?style=for-the-badge&color=blue&label=FOLLOWERS)
+![Years Badge](https://badges.pufler.dev/years/VihiThejan?style=for-the-badge&color=green&label=CODING+SINCE)
+![Repos Badge](https://badges.pufler.dev/repos/VihiThejan?style=for-the-badge&color=orange&label=REPOSITORIES)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihiThejan&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="Animated Activity Graph" />
 
 </div>
 
-### 📞 **Connect With Me**
+### 📞 **Connect & Collaborate**
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/vihinsa-thejan-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/vihinsabandara" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://sites.google.com/view/vihinsa-thejan-bandara/home" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:vihinsabandara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://discord.gg/yourserver">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Build+Together!;Open+for+Collaboration+%26+Opportunities" alt="Connect Animation" />
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/vihinsa-thejan-bandara" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a><br>
+      <sub><b>Professional Network</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/vihinsabandara" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a><br>
+      <sub><b>Tech Updates</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://sites.google.com/view/vihinsa-thejan-bandara/home" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      </a><br>
+      <sub><b>My Work Showcase</b></sub>
+    </td>
+    <td align="center">
+      <a href="mailto:vihinsabandara@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a><br>
+      <sub><b>Direct Contact</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+</div>
 
-## 🎮 **Player Profile: Vihinsa**
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Divider" />
+
+## 🎮 **Player Profile: Vihinsa** 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding Animation" />
+</div>
 
 <div align="center">
 
 ### 🏅 **Achievement Level: Senior Developer** 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VihiThejan&theme=radical&hide_border=true&stroke=F8D866&ring=FB8500&fire=FB8500&currStreakLabel=F8D866" alt="Coding Streak" />
+
+```diff
++ 📊 Coding Experience: ████████████████░░░░  80% (4+ years)
++ 🚀 Project Completion: ██████████████████░░  90% (50+ projects)  
++ ☁️  Cloud Mastery: ██████████████░░░░░░░░  70% (AWS Certified)
++ 📱 Mobile Development: ████████████████░░░░  80% (Flutter Expert)
 ```
-📊 Coding Experience: ████████████████░░░░  80% (4+ years)
-🚀 Project Completion: ██████████████████░░  90% (50+ projects)
-☁️  Cloud Mastery: ██████████████░░░░░░░░  70% (AWS Certified)
-📱 Mobile Development: ████████████████░░░░  80% (Flutter Expert)
-```
+
+<img src="https://skillicons.dev/icons?i=java,js,kotlin,flutter,react,nodejs,aws,docker&theme=dark" alt="Animated Skills" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihiThejan&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Language Stats" height="200" />
 
 </div>
 
@@ -98,18 +134,24 @@ Software Developer with **4+ years** of experience crafting digital solutions th
 
 <div align="center">
 
-### 🎨 **Frontend Weapons** - *User Experience Crafting*
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,android,html,css,js,bootstrap,figma&theme=dark" />
+### 🎨 **Frontend Arsenal** - *User Experience Crafting*
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter,android,html,css,js,bootstrap,figma&theme=dark&perline=8" alt="Frontend Skills" />
 </p>
 
-**Skill Levels:**
-```bash
-React.js         ████████████████████  100% ⚡ Master
-Flutter          ████████████████████  100% 🚀 Expert  
-Android (Native) ██████████████████░░   90% 📱 Advanced
-HTML/CSS/JS      ████████████████████  100% 🎯 Master
+<div align="center">
+
+**⚔️ Skill Mastery Levels:**
+```yaml
+React.js:         ████████████████████  100% ⚡ Master Level
+Flutter:          ████████████████████  100% 🚀 Expert Level  
+Android (Native): ██████████████████░░   90% 📱 Advanced Level
+HTML/CSS/JS:      ████████████████████  100% 🎯 Master Level
 ```
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VihiThejan&theme=radical" alt="Productive Time" />
+
+</div>
 
 ### ⚙️ **Backend Arsenal** - *Server-Side Sorcery*
 <p>
@@ -160,8 +202,14 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 ### 🎮 **Player Stats Dashboard**
 
-<img src="https://github-readme-stats.vercel.app/api?username=VihiThejan&show_icons=true&theme=radical&hide_border=true&custom_title=🎯%20Vihinsa's%20Coding%20Stats&icon_color=F8D866" alt="Vihinsa's GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VihiThejan&theme=radical&hide_border=true&stroke=F8D866&ring=FB8500&fire=FB8500" alt="Vihinsa's GitHub Streak" height="180" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VihiThejan&show_icons=true&theme=radical&hide_border=true&custom_title=🎯%20Vihinsa's%20Coding%20Stats&icon_color=F8D866&count_private=true&include_all_commits=true" alt="Vihinsa's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihiThejan&theme=radical&hide_border=true&stroke=F8D866&ring=FB8500&fire=FB8500&currStreakLabel=F8D866" alt="GitHub Streak" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VihiThejan&theme=radical" alt="Profile Summary" />
+</div>
 
 ### 🏆 **Achievement Unlocked: Language Mastery**
 
@@ -169,7 +217,13 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 ### 📈 **Contribution Graph - The Coding Journey**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihiThejan&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=FB8500&point=F8D866" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VihiThejan/VihiThejan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VihiThejan/VihiThejan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VihiThejan/VihiThejan/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihiThejan&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=FB8500&point=F8D866&area=true&area_color=F8D866" alt="Contribution Graph" />
 
 ### ⚡ **Real-Time Coding Metrics**
 
@@ -198,24 +252,33 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 <div align="center">
 
-### 🎖️ **Professional Certifications Earned**
+### 🎖️ **Achievement Gallery - Professional Certifications**
 
-<table>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=400&lines=Certified+Cloud+Practitioner;API+Testing+Expert;Database+Professional" alt="Certification Animation" />
+
+</div>
+
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/AWS_Academy_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Graduate"><br>
-      <sub><b>☁️ Cloud Computing</b></sub><br>
-      <sub>📅 2024 • ⭐ Level: Advanced</sub>
+      <sub><b>☁️ Cloud Computing Mastery</b></sub><br>
+      <sub>📅 Earned 2024 • ⭐ Advanced Level</sub><br>
+      <img src="https://img.shields.io/badge/Skills-Serverless_Architecture-orange?style=flat-square" alt="AWS Skills" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Postman_API_Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Student Expert"><br>
-      <sub><b>🔌 API Testing</b></sub><br>
-      <sub>📅 2023 • ⭐ Level: Expert</sub>
+      <sub><b>🔌 API Development & Testing</b></sub><br>
+      <sub>📅 Earned 2023 • ⭐ Expert Level</sub><br>
+      <img src="https://img.shields.io/badge/Skills-RESTful_APIs-orange?style=flat-square" alt="API Skills" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB_Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Certified"><br>
-      <sub><b>🍃 NoSQL Database</b></sub><br>
-      <sub>📅 2023 • ⭐ Level: Professional</sub>
+      <sub><b>🍃 NoSQL Database Expert</b></sub><br>
+      <sub>📅 Earned 2023 • ⭐ Professional Level</sub><br>
+      <img src="https://img.shields.io/badge/Skills-Document_Databases-green?style=flat-square" alt="MongoDB Skills" />
     </td>
   </tr>
 </table>
@@ -312,25 +375,37 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 <div align="center">
 
-<table>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Latest+Projects+Showcase;📱+Mobile+%26+Web+Applications;⭐+Open+Source+Contributions" alt="Projects Animation" />
+
+</div>
+
+<table align="center">
   <tr>
     <td align="center">
-      <h4>🆕 WordApp (Latest)</h4>
+      <h4>🆕 WordApp (Latest Release)</h4>
       <a href="https://github.com/VihiThejan/wordapp" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=wordapp&theme=radical&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=wordapp&theme=radical&hide_border=true&show_description=true" />
       </a>
-      <br>
+      <br><br>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Created-Oct_2025-brightgreen?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Status-🔥_Hot-red?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Created-Oct_2025-brightgreen?style=flat-square"/>
     </td>
     <td align="center">
-      <h4>🌟 MarketMaven</h4>
+      <h4>🌟 MarketMaven (Popular)</h4>
       <a href="https://github.com/VihiThejan/MarketMaven" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=MarketMaven&theme=radical&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VihiThejan&repo=MarketMaven&theme=radical&hide_border=true&show_description=true" />
       </a>
-      <br>
+      <br><br>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <br>
       <img src="https://img.shields.io/github/stars/VihiThejan/MarketMaven?style=social"/>
+      <img src="https://img.shields.io/github/forks/VihiThejan/MarketMaven?style=social"/>
     </td>
   </tr>
 </table>
@@ -395,26 +470,30 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 ### 🎮 **Game Over... Or Just The Beginning?**
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🎯+Thanks+for+visiting+my+coding+universe!;⭐+Don't+forget+to+star+my+repositories;🚀+Let's+connect+and+build+the+future+together!;💻+Happy+Coding!+Keep+Learning+%26+Growing!;🌟+Open+to+collaboration+and+opportunities" alt="Dynamic Footer Animation" />
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@:VihiThejan?theme=rule34" alt="Visitor Counter Animation" />
+</div>
+
 ```ascii
   ______ _   _ ____    ___  _____   ____    _    __  __ _____ 
  | ____| \ | |  _ \  / _ \|  ___| / ___|  / \  |  \/  | ____|
  |  _| |  \| | | | |/ | | | |_   | |  _  / _ \ | |\/| |  _|  
  | |___| |\  | |_| / |_| |  _|  | |_| |/ ___ \| |  | | |___ 
  |_____|_| \_|____/ \___/|_|     \____/_/   \_\_|  |_|_____|
-                                                            
-🎯 Thanks for visiting my profile! 
-🚀 Don't forget to ⭐ my repositories if you find them useful!
-🤝 Let's connect and build the future together!
 ```
+
+<img src="https://github.com/VihiThejan/VihiThejan/blob/main/assets/rocket.gif?raw=true" width="50" alt="Rocket"> **"Code is poetry written in logic"** <img src="https://github.com/VihiThejan/VihiThejan/blob/main/assets/rocket.gif?raw=true" width="50" alt="Rocket">
+
+</div>
 
 ---
 
 <div align="center">
-  
-**🌟 "Code is poetry written in logic" 🌟**
 
-<sub>Made with ❤️ by Vihinsa Thejan Bandara</sub>
-
-![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75&desc=Keep%20exploring%20and%20learning!&descAlignY=88&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made%20with%20❤️%20by%20Vihinsa&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Keep%20exploring%20and%20learning!&descAlignY=85&descAlign=50" alt="Footer Wave" />
 
 </div>
