@@ -224,7 +224,7 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VihiThejan&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=FB8500&point=F8D866&area=true&area_color=F8D866" alt="Contribution Graph" />
 
-### ⚡ **Real-Time Coding Metrics**
+
 
 <!-- <div align="center">
   <a href="https://wakatime.com/@VihiThejan">
