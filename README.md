@@ -226,11 +226,11 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 ### ⚡ **Real-Time Coding Metrics**
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://wakatime.com/@VihiThejan">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VihiThejan&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" />
   </a>
-</div>
+</div> -->
 
 ### 🏅 **GitHub Trophies Collection**
 
