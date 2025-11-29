@@ -25,7 +25,7 @@
 </div>
 
 ### 📞 **Connect & Collaborate**
-
+#
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Build+Together!;Open+for+Collaboration+%26+Opportunities" alt="Connect Animation" />
