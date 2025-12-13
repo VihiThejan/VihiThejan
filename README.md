@@ -12,7 +12,7 @@
 
 ### 🌟 **Live Stats Dashboard**
 <div align="center">
-##
+
 <img src="https://github-widgetbox.vercel.app/api/profile?username=VihiThejan&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VihiThejan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
@@ -25,7 +25,7 @@
 </div>
 
 ### 📞 **Connect & Collaborate**
-#
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Build+Together!;Open+for+Collaboration+%26+Opportunities" alt="Connect Animation" />
