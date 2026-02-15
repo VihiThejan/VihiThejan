@@ -226,26 +226,7 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 
 
-<!-- <div align="center">
-  <a href="https://wakatime.com/@VihiThejan">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VihiThejan&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" />
-  </a>
-</div> -->
 
-### 🏅 **GitHub Trophies Collection**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VihiThejan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-### 📋 **Recent Activity Feed**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
 
 ## 🏆 **Hall of Fame: Certifications & Achievements**
 
