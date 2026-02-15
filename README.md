@@ -226,12 +226,6 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 
 
-
-
-## 🏆 **Hall of Fame: Certifications & Achievements**
-
-<div align="center">
-
 ### 🎖️ **Achievement Gallery - Professional Certifications**
 
 <div align="center">
