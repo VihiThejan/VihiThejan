@@ -210,10 +210,6 @@ CI/CD Pipeline   ██████████████░░░░░░   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VihiThejan&theme=radical" alt="Profile Summary" />
 </div>
 
-### 🏆 **Achievement Unlocked: Language Mastery**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihiThejan&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250" />
-
 
 ### 🎖️ **Achievement Gallery - Professional Certifications**
 
