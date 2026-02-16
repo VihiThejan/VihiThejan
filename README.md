@@ -214,17 +214,6 @@ CI/CD Pipeline   ██████████████░░░░░░   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihiThejan&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250" />
 
-### 📈 **Contribution Graph - The Coding Journey**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VihiThejan/VihiThejan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VihiThejan/VihiThejan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VihiThejan/VihiThejan/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihiThejan&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=FB8500&point=F8D866&area=true&area_color=F8D866" alt="Contribution Graph" />
-
-
 
 ### 🎖️ **Achievement Gallery - Professional Certifications**
 
