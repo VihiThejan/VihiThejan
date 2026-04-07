@@ -391,9 +391,9 @@ CI/CD Pipeline   ██████████████░░░░░░   
 <a href="https://www.buymeacoffee.com/vihinsabandara" target="_blank">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
-<a href="https://ko-fi.com/vihinsabandara" target="_blank">
+<!-- <a href="https://ko-fi.com/vihinsabandara" target="_blank">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/sponsors/VihiThejan" target="_blank">
   <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" />
 </a> -->
